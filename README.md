@@ -89,5 +89,8 @@ API usage may be subject to VirusTotal’s rate limits.
 👨‍💻 Author
 
 👾 Ghost Empire (Ranjan Kumar)
+
 🧑‍💻 Ethical Hacker & Cybersecurity Researcher
+
 🔗 GitHub : https://github.com/ghostempireis
+
